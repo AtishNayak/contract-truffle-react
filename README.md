@@ -6,7 +6,7 @@ Sure, here's a template for the README file for your GitHub repository for a pro
 
 -- Overview
 
-This project is a demonstration of a smart contract developed using Truffle framework and integrated with React.js for the frontend. The smart contract is deployed on a blockchain network and interacts with the frontend through a user-friendly interface.
+This project is a demonstration showcasing a smart contract to transfer ETH using MetaMask wallet developed using the Truffle framework, seamlessly integrated with React.js for the frontend. The smart contract has been deployed on the Goerli test network, offering a secure and decentralized environment for experimentation. Users can interact with the smart contract through an intuitive and user-friendly interface provided by the frontend. 
 
 -- Features
 
@@ -31,6 +31,7 @@ This project is a demonstration of a smart contract developed using Truffle fram
     ```
     truffle compile
     truffle migrate
+    truffle migrate --network goerli
     ```
 
 3. Start the development server:
