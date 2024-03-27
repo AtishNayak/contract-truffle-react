@@ -1,7 +1,3 @@
-Sure, here's a template for the README file for your GitHub repository for a project that involves a smart contract developed using Truffle and integrated with React :
-
----
-
 ## Smart Contract Project with Truffle-React Suite
 
 -- Overview
